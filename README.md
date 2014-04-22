@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [pid/speakingurl](http://github.com/pid/speakingurl). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/pid-speakingurl`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Speaking URL [![NPM version](https://badge.fury.io/js/speakingurl.png)](http://badge.fury.io/js/speakingurl) [![Build Status](https://travis-ci.org/pid/speakingurl.png)](https://travis-ci.org/pid/speakingurl)
 
 > Generate a slug with a lot of options; create of so called 'static' or 'Clean URL' or 'Pretty URL' or 'nice-looking URL' or 'Speaking URL' or 'user-friendly URL' or 'SEO-friendly URL' from a string.
